@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doga_Override2", "Doga_Override2\Doga_Override2.csproj", "{06CA8723-DD57-4DF9-B942-583A51C1400C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06CA8723-DD57-4DF9-B942-583A51C1400C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CA8723-DD57-4DF9-B942-583A51C1400C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CA8723-DD57-4DF9-B942-583A51C1400C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CA8723-DD57-4DF9-B942-583A51C1400C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFC8D34E-332E-4625-B797-867154D7EC8E}
+	EndGlobalSection
+EndGlobal
